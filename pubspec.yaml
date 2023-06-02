@@ -1,7 +1,7 @@
 name: light_bottom_navigation_bar
 description: Amazing animated powerful BottomNavigationBar widget , you can use it in your pro apps to improve UI/UX.
 version: 0.0.1
-homepage:
+homepage: https://github.com/abraralidev/light_bottom_navigation_bar
 
 environment:
   sdk: '>=2.19.6 <3.0.0'

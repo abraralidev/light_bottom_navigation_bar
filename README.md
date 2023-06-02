@@ -1,4 +1,5 @@
 # [light_bottom_navigation_bar](https://pub.dev/packages/light_bottom_navigation_bar/install)
+## current version: 0.0.1
 
 Amazing powerful animated widget, it is useful for modern apps by displaying pro BottomNavigationBar with ViewPager.
 
