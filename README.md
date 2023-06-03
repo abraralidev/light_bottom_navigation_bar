@@ -3,11 +3,6 @@
 
 Amazing powerful animated widget, it is useful for modern apps by displaying pro BottomNavigationBar with ViewPager.
 
-Add Super BottomNavigationBar => Better UI/UX.
-
-Do you like circles ? see  [super_circle](https://pub.dev/packages/super_circle)
-
-
 [![pub](https://img.shields.io/pub/v/light_bottom_navigation_bar?color=blue&label=pub&logo=flutter&style=flat-square)](https://pub.dev/packages/light_bottom_navigation_bar/install)
 [![license](https://img.shields.io/github/license/abraralidev/light_bottom_navigation_bar?color=yellow&label=license&logo=github&style=flat-square)](https://pub.dev/packages/light_bottom_navigation_bar/install)
 [![repo_size](https://img.shields.io/github/languages/code-size/abraralidev/light_bottom_navigation_bar?color=red&label=repo_size&logo=github&style=flat-square)](https://pub.dev/packages/light_bottom_navigation_bar/install)
